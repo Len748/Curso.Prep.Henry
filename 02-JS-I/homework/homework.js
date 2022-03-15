@@ -233,6 +233,7 @@ function esVocal(letra){
   if (letra.lenght > 1) {
     return "Dato correcto"
   }
+  
   if (letra === "a" || letra === "e" || letra "i" || letra "o" || letra "u") { 
     return "Es vocal"
   }

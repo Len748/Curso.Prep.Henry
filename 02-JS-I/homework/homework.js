@@ -233,8 +233,7 @@ function esVocal(letra){
   if (letra.lenght > 1) {
     return "Dato correcto"
   }
-  
-  if (letra === "a" || letra === "e" || letra "i" || letra "o" || letra "u") { 
+  if (letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u") { 
     return "Es vocal"
   }
   return "Dato incorrecto"
@@ -280,3 +279,7 @@ module.exports = {
   deEuroAdolar,
   esVocal,
 };
+function newFunction() {
+  return "i";
+}
+

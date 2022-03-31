@@ -17,8 +17,17 @@
   },
   "dependencies": {
     "axios": "^0.21.4",
+    "express": "^4.17.3",
     "git-remote-origin-url": "^3.1.0",
     "git-url-parse": "^11.6.0",
     "simple-git": "^2.45.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Len748/Curso.Prep.Henry.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Len748/Curso.Prep.Henry/issues"
+  },
+  "homepage": "https://github.com/Len748/Curso.Prep.Henry#readme"
 }

@@ -1,0 +1,3 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays: Los arrays es una variable estructurada que permite almacenar un conjunto de datos dentro de []. A los datos almacenados en un array se los denomina elementos, para acceder a los elementos se emplea un indice que sera un numero entero que va a indicar la posicion del elemento dentro del array siempre comenzando desde el 0.
